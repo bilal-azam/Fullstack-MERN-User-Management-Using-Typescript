@@ -1,0 +1,1 @@
+export const MONGO_URI = 'mongodb+srv://picShare:Bilal123@cluster0.uxwzhfb.mongodb.net/test' as string;
